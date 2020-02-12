@@ -2,24 +2,7 @@
 layout: default
 ---
 
-<html>
-<head>
-    <title>Will Jaw</title>
-
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-
 * [Home](#)
 * [Audio](#)
 * [Projects](#)
-<body>
-    <nav class="mainNav">
-        <ul>
-            <li><a href="#">Home</a></li>
-            <li><a href="#">Audio</a></li>
-            <li><a href="#">Projects</a></li>
-        </ul>
-    </nav>
-</body>
-</html>
+
