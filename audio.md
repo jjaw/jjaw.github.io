@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Title of Audio File One
 
 *Description of the File*
@@ -9,7 +13,7 @@
 *Description of the File*
 
 * What we did here
- * Test
+
   * Test
 * Item 2
   * Item 2a
