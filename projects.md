@@ -7,3 +7,5 @@ layout: default
   * KEN Labs Metaverse Hackathon - IPFS/Filecoin's Participant
 * [EightBitRabbits](https://opensea.io/collection/eightbitrabbits) 
   * *(Let's send the good rabbit back to the moon)*
+* [NFT-minter](https://nft-minter-5tack.herokuapp.com/)
+  * Simple NFT minter on the mumbai testnet
