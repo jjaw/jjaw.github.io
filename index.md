@@ -2,6 +2,5 @@
 layout: default
 ---
 
-* [Audio](audio.md)
-* [Projects](#)
+* [Projects](projects.md)
 
