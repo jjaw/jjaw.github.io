@@ -12,3 +12,5 @@ layout: default
 ![](../img/winterD/Design_2_sketches.png)
 # Purple
 ![](../img/winterD/Design_3_purple.png)
+# Snow
+![](../img/winterD/Design_6_d_snow.png)
