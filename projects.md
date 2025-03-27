@@ -2,7 +2,7 @@
 layout: default
 ---
 * [Good Rabbit, Posivity Messenger](https://www.goodrabb.it/) *2024*
-  * An AI wrapper that sends positivte message to target recipient. 
+  * An AI wrapper. Sends positive message to target recipient. 
   * Employed [resend](https://resend.com/) for email.
   * [OpenAI API](https://openai.com/api/)
 * [GoFundYourself](https://devpost.com/software/brofundyourself) *2022*
